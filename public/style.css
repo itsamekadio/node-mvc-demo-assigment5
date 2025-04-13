@@ -1,3 +1,20 @@
 body {
   background-image: linear-gradient(to right, wheat, yellow);
 }
+
+button {
+  padding: 5px 10px;
+  background-color: #ff4444;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #cc0000;
+}
+
+li {
+  margin: 10px 0;
+}
